@@ -61,6 +61,7 @@
     <TypeScriptCompile Include="Scripts\app\app.ts" />
     <TypeScriptCompile Include="Scripts\app\appConfig.ts" />
     <Content Include="Index.html" />
+    <TypeScriptCompile Include="Scripts\app\countdownTimerViewModel.ts" />
     <Content Include="Scripts\moment.js" />
     <Content Include="Scripts\moment.min.js" />
     <Content Include="Scripts\r.js" />
