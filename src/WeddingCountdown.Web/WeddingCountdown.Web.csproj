@@ -65,6 +65,8 @@
     <Content Include="Scripts\moment.min.js" />
     <Content Include="Scripts\r.js" />
     <Content Include="Scripts\require.js" />
+    <Content Include="Scripts\typings\knockout\knockout.amd.d.ts" />
+    <Content Include="Scripts\typings\knockout\knockout.d.ts" />
     <Content Include="Scripts\typings\moment\moment.d.ts" />
     <Content Include="Scripts\typings\requirejs\require.d.ts" />
     <Content Include="Web.config" />
